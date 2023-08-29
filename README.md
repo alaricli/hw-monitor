@@ -1,4 +1,4 @@
-# HWMonitor
+# Hardware Monitor
 
 Hardware monitoring tool created using C++
 
